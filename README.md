@@ -2,7 +2,6 @@
 
 Flutter Login And Register UI. 
 This is a simple flutter application where I have designed Login And Register UI.
-Created by [Joan Louji](https://joanlouji.web.app/)
 
 ## Installation
 
