@@ -7,18 +7,11 @@ This is a simple flutter application where I have designed Login And Register UI
 
 ``` 
 
-git clone https://github.com/sjlouji/LoginAndRegisterV1-Flutter.git
+git clone https://github.com/sivagamimeeraganesh/LoginAndRegister.git
 flutter pub get
 flutter run 
 
 ```
-
-
-## Demo
-
-<img src="Demo/LoginV1-1.png" height="300em" /> <br>
-<img src="Demo/LoginV1-2.png" height="300em" /> <br>
-<img src="Demo/LoginV1-3.png" height="300em" /> <br>
 
 
 
